@@ -1,0 +1,134 @@
+{
+    "schemaVersion":  1,
+    "packVersion":  "2.0.1",
+    "minecraftVersion":  "1.20.1",
+    "forgeVersion":  "47.4.10",
+    "releaseNotes":  "2.0.1 모드팩 업데이트",
+    "files":  [
+                  {
+                      "path":  "mods/alcocraftplus-1.20-2.1.1-forge.jar",
+                      "sha256":  "54a72405dcdfc72d4ea44ff8fac2a6e198d19624faad83fdf6a6205d1ffb69e6",
+                      "size":  276750
+                  },
+                  {
+                      "path":  "mods/Aquaculture-1.20.1-2.5.7.jar",
+                      "sha256":  "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f",
+                      "size":  601839
+                  },
+                  {
+                      "path":  "mods/architectury-9.2.14-forge.jar",
+                      "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+                      "size":  580602
+                  },
+                  {
+                      "path":  "mods/artillery_addon-1.16.2-forge-1.20.1.jar",
+                      "sha256":  "9cde7b826555b72c5f9ea90b5a89e941a68c16fab47d58850dffb559f7e61cb2",
+                      "size":  3921980
+                  },
+                  {
+                      "path":  "mods/astikorcartsredux-1.2.5.jar",
+                      "sha256":  "3da8eb296f82fc2dda85a0f7d7d10a568e34c2ce8f763574827853edd672e5f6",
+                      "size":  530548
+                  },
+                  {
+                      "path":  "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+                      "sha256":  "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663",
+                      "size":  2613393
+                  },
+                  {
+                      "path":  "mods/cloth-config-11.1.136-forge.jar",
+                      "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+                      "size":  1181413
+                  },
+                  {
+                      "path":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                      "sha256":  "6bf5887393268e88ec76dff95af4742277bf955d5130464d4ccf792aed9ab6e8",
+                      "size":  3271742
+                  },
+                  {
+                      "path":  "mods/epic-knights-1.20.1-forge-10.11.jar",
+                      "sha256":  "6043fdc77ea9651b1293e8602c8e858c728628f6f6b6e9efa247e4281f4ca733",
+                      "size":  2913733
+                  },
+                  {
+                      "path":  "mods/epic-knights-addon-1.20.x-forge-2.6.jar",
+                      "sha256":  "cbaf743ce72199d2007fc9d9199be28d2f805a81a837230cf0d6e8ce828cd193",
+                      "size":  2012821
+                  },
+                  {
+                      "path":  "mods/FarmersDelight-1.20.1-1.3.4.jar",
+                      "sha256":  "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
+                      "size":  3311051
+                  },
+                  {
+                      "path":  "mods/Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar",
+                      "sha256":  "217e69fe4429c25611cef0aa9372e0f319a317638ab54607b6c68157208ff753",
+                      "size":  2674406
+                  },
+                  {
+                      "path":  "mods/geckolib-forge-1.20.1-4.8.4.jar",
+                      "sha256":  "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+                      "size":  1038209
+                  },
+                  {
+                      "path":  "mods/immersive_melodies-0.8.0+1.20.1-forge.jar",
+                      "sha256":  "bf330d4204723f824e6adddce95e02bed13270095dd6f0e28dbea39da5bfdf9e",
+                      "size":  5563706
+                  },
+                  {
+                      "path":  "mods/jei-1.20.1-forge-15.56.0.205.jar",
+                      "sha256":  "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
+                      "size":  1778129
+                  },
+                  {
+                      "path":  "mods/lightmanscurrency-1.20.1-2.3.0.5.jar",
+                      "sha256":  "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab",
+                      "size":  10445393
+                  },
+                  {
+                      "path":  "mods/Medieval Decoration v.1.2 1.20.1.jar",
+                      "sha256":  "8f80614fdaecedc4845ecb645e39f8564f1d090ccb11fd84f9484635bc4d47ce",
+                      "size":  258580
+                  },
+                  {
+                      "path":  "mods/Medieval-Trade-Goods-Forge-1.20.1-1.1.0-Custom.jar",
+                      "sha256":  "863f585fb7c9fb812d2b7b8ca1ffa20ccebc7fbace22fd7c7e28ca173ff15470",
+                      "size":  107951
+                  },
+                  {
+                      "path":  "mods/msm-better-explosions-1.0.0-1.20.1.jar",
+                      "sha256":  "9ac70b7bb362f27c66cef0dd9d1d634f226bd7aac94992cce3489175934bd4df",
+                      "size":  105800
+                  },
+                  {
+                      "path":  "mods/Platform-forge-1.20.1-1.3.4.jar",
+                      "sha256":  "e35c013fb8cbd62900ccdf0872fc6c14b9858a711f6b2279c479f4b4f668d870",
+                      "size":  512461
+                  },
+                  {
+                      "path":  "mods/siege-machines-1.20.1-forge-1.39.jar",
+                      "sha256":  "999eb15abbd5c1b7cb1141d41c389153dda55b79f2010e429de2b4d0ceac026a",
+                      "size":  1985293
+                  },
+                  {
+                      "path":  "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+                      "sha256":  "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff",
+                      "size":  1816687
+                  },
+                  {
+                      "path":  "mods/VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+                      "sha256":  "157f95106c7f00f92b05c72f25e2d87e2ffbef04137e9ea609fc03838bb39e2d",
+                      "size":  56051142
+                  },
+                  {
+                      "path":  "mods/worldedit-mod-7.2.15.jar",
+                      "sha256":  "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+                      "size":  5825402
+                  },
+                  {
+                      "path":  "resourcepacks/Medieval-Trade-Expanded-1.20.1.zip",
+                      "sha256":  "e2fad1ee010e532f94c5eed97b2cb46c412d9d494d303bbf2de8befbb2303dda",
+                      "size":  60291
+                  }
+              ]
+}
