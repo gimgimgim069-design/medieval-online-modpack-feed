@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "packVersion":  "2.0.1",
+    "packVersion":  "2.0.2",
     "minecraftVersion":  "1.20.1",
     "forgeVersion":  "47.4.10",
-    "releaseNotes":  "2.0.1 모드팩 업데이트",
+    "releaseNotes":  "2.0.2 모드팩 업데이트",
     "files":  [
                   {
                       "path":  "mods/alcocraftplus-1.20-2.1.1-forge.jar",
@@ -46,6 +46,21 @@
                       "size":  3271742
                   },
                   {
+                      "path":  "mods/easy_npc_bundle-forge-1.20.1-7.12.1.jar",
+                      "sha256":  "f930c1bb8bbb320963ce8c2425eed75ae6363cc1706d627c8989a127aecec15e",
+                      "size":  25441
+                  },
+                  {
+                      "path":  "mods/easy_npc_config_ui-forge-1.20.1-7.12.1.jar",
+                      "sha256":  "da58bfce2a5902d4037d14ace9e96c294692790835ff0d608aafa818c80964cd",
+                      "size":  1092567
+                  },
+                  {
+                      "path":  "mods/easy_npc-forge-1.20.1-7.12.1.jar",
+                      "sha256":  "358a0a7783dff8567e354ac64086b1bd9f87546e78f5f1436435dd175d933f1e",
+                      "size":  2962180
+                  },
+                  {
                       "path":  "mods/epic-knights-1.20.1-forge-10.11.jar",
                       "sha256":  "6043fdc77ea9651b1293e8602c8e858c728628f6f6b6e9efa247e4281f4ca733",
                       "size":  2913733
@@ -81,14 +96,14 @@
                       "size":  1778129
                   },
                   {
-                      "path":  "mods/lightmanscurrency-1.20.1-2.3.0.5.jar",
-                      "sha256":  "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab",
-                      "size":  10445393
-                  },
-                  {
                       "path":  "mods/Medieval Decoration v.1.2 1.20.1.jar",
                       "sha256":  "8f80614fdaecedc4845ecb645e39f8564f1d090ccb11fd84f9484635bc4d47ce",
                       "size":  258580
+                  },
+                  {
+                      "path":  "mods/Medieval-Trade-Death-Drops-Forge-1.20.1-1.0.0.jar",
+                      "sha256":  "6bcac73391d800b4278b764935c72b2e4040c9b9e14ba32a322dd0ab44ee2bb1",
+                      "size":  4305
                   },
                   {
                       "path":  "mods/Medieval-Trade-Goods-Forge-1.20.1-1.1.0-Custom.jar",
@@ -107,8 +122,8 @@
                   },
                   {
                       "path":  "mods/siege-machines-1.20.1-forge-1.39.jar",
-                      "sha256":  "999eb15abbd5c1b7cb1141d41c389153dda55b79f2010e429de2b4d0ceac026a",
-                      "size":  1985293
+                      "sha256":  "6a24c20ff92a9b804656bdb3dc1d06b601bc258d0c5b6fb644ccfc680555d6a1",
+                      "size":  1973951
                   },
                   {
                       "path":  "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
@@ -124,11 +139,6 @@
                       "path":  "mods/worldedit-mod-7.2.15.jar",
                       "sha256":  "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
                       "size":  5825402
-                  },
-                  {
-                      "path":  "resourcepacks/Medieval-Trade-Expanded-1.20.1.zip",
-                      "sha256":  "e2fad1ee010e532f94c5eed97b2cb46c412d9d494d303bbf2de8befbb2303dda",
-                      "size":  60291
                   }
               ]
 }
