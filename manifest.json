@@ -1,19 +1,14 @@
 {
     "schemaVersion":  1,
-    "packVersion":  "2.0.2",
+    "packVersion":  "2.0.3",
     "minecraftVersion":  "1.20.1",
     "forgeVersion":  "47.4.10",
-    "releaseNotes":  "2.0.2 모드팩 업데이트",
+    "releaseNotes":  "2.0.3 모드팩 업데이트",
     "files":  [
                   {
                       "path":  "mods/alcocraftplus-1.20-2.1.1-forge.jar",
                       "sha256":  "54a72405dcdfc72d4ea44ff8fac2a6e198d19624faad83fdf6a6205d1ffb69e6",
                       "size":  276750
-                  },
-                  {
-                      "path":  "mods/Aquaculture-1.20.1-2.5.7.jar",
-                      "sha256":  "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f",
-                      "size":  601839
                   },
                   {
                       "path":  "mods/architectury-9.2.14-forge.jar",
@@ -61,14 +56,14 @@
                       "size":  2962180
                   },
                   {
-                      "path":  "mods/epic-knights-1.20.1-forge-10.11.jar",
-                      "sha256":  "6043fdc77ea9651b1293e8602c8e858c728628f6f6b6e9efa247e4281f4ca733",
-                      "size":  2913733
+                      "path":  "mods/epic-knights-1.20.1-forge-10.15.jar",
+                      "sha256":  "5923859b45f6f0f8236f09980f1ead9b48ae9824872a429153d928fd10d5835d",
+                      "size":  2904252
                   },
                   {
                       "path":  "mods/epic-knights-addon-1.20.x-forge-2.6.jar",
-                      "sha256":  "cbaf743ce72199d2007fc9d9199be28d2f805a81a837230cf0d6e8ce828cd193",
-                      "size":  2012821
+                      "sha256":  "64ab973330dec726427bed7e05ffb82995d0d84e149fee68817632faf7d28835",
+                      "size":  2002288
                   },
                   {
                       "path":  "mods/FarmersDelight-1.20.1-1.3.4.jar",
@@ -99,6 +94,11 @@
                       "path":  "mods/Medieval Decoration v.1.2 1.20.1.jar",
                       "sha256":  "8f80614fdaecedc4845ecb645e39f8564f1d090ccb11fd84f9484635bc4d47ce",
                       "size":  258580
+                  },
+                  {
+                      "path":  "mods/Medieval-Mods-Korean-Translation-Forge-1.20.1-1.1.0 (1).jar",
+                      "sha256":  "09b8c15167adc53a3278d0bae0733c30baaf97975295ca86d90b355c1a98b22a",
+                      "size":  41671
                   },
                   {
                       "path":  "mods/Medieval-Trade-Death-Drops-Forge-1.20.1-1.0.0.jar",
