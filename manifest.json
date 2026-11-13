@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "packVersion":  "2.0.4",
+    "packVersion":  "2.0.5",
     "minecraftVersion":  "1.20.1",
     "forgeVersion":  "47.4.10",
-    "releaseNotes":  "DF",
+    "releaseNotes":  " d",
     "files":  [
                   {
                       "path":  "mods/alcocraftplus-1.20-2.1.1-forge.jar",
@@ -94,6 +94,11 @@
                       "path":  "mods/Medieval Decoration v.1.2 1.20.1.jar",
                       "sha256":  "8f80614fdaecedc4845ecb645e39f8564f1d090ccb11fd84f9484635bc4d47ce",
                       "size":  258580
+                  },
+                  {
+                      "path":  "mods/Medieval-Ladder-Rules-Forge-1.20.1-1.0.0.jar",
+                      "sha256":  "4aca76bac84ee2d76498f228fb62344234866b4a87016127b40ebb5a5c629d5c",
+                      "size":  8887
                   },
                   {
                       "path":  "mods/Medieval-Trade-Death-Drops-Forge-1.20.1-1.0.0.jar",
